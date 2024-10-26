@@ -1,0 +1,29 @@
+{
+  "name": "Noc's AltStore Repo",
+  "identifier": "com.noc.altstore-repo",
+  "userInfo": {},
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Dangerous Pixel",
+      "downloadURL": "https://otobitzlite.com/qms/altstore/Instagram_352.2_Rocket_3.8.29_Cracked_LeTi.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+      "localizedDescription": "Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
+      "name": "Rocket for Instagram",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 180227491,
+      "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 12.4 and later.",
+      "tintColor": "c72a96",
+      "version": "352.2.0",
+      "versionDate": "2024-101-105T12:00:00-01:00",
+      "versionDescription": "Changelog v352.2.0-3.8.29:\n- https://ipalibrary.me/instagram-rocket/"
+    }
+  ],
+  "news": []
+}
